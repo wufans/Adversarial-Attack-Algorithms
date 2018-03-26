@@ -1,1 +1,2 @@
-# Adversarial-Algorithms-Summaries-Applications
+# Adversarial Algorithms Summaries Applications
+**A summary of varies adversarial attack algorithms**
