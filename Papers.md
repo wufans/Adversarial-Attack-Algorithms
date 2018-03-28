@@ -1,7 +1,14 @@
-# Survey of papers in Adversarial Settings
+# Summary of papers in Adversarial Settings
 
 ---
-## Background of Deep Learning Security
+## Background of Deep Learning Security and application of adversarial attack
+:white_check_mark: 000.Machine Learning in Adversarial Settings-PPT
+
+:white_check_mark: 1610.Accessorize to a Crime : Real and Stealthy Attacks on State-of-the-Art Face Recognition
+
+:white_check_mark: 1707.NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles
+
+:white_check_mark: 1710.Standard detectors aren't (currently) fooled by physical adversarial stop signs
 
 ---
 ## Existence of adversarial examples
