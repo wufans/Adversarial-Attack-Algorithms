@@ -4,6 +4,10 @@
 ## Background of Deep Learning Security and application of adversarial attack
 :white_check_mark: 000.Machine Learning in Adversarial Settings-PPT
 
+:white_check_mark: 0603.Can Machine Learning Be Secure
+
+:white_check_mark: 1100.Adversarial Machine Learning
+
 :white_check_mark: 1610.Accessorize to a Crime : Real and Stealthy Attacks on State-of-the-Art Face Recognition
 
 :white_check_mark: 1707.NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles
@@ -122,3 +126,17 @@
 
 ---
 ## Related survey research
+:white_check_mark: 1606.Concrete Problems in AI Safety
+
+:white_check_mark: 1610.SoK Towards the Science of Security and Privacy in Machine Learning
+
+:white_check_mark: 1611.Towards the Science of Security and Privacy in Machine Learning
+
+:white_check_mark: 1707.A Survey on Resilient Machine Learning
+
+:white_check_mark: 1712.Adversarial Examples-Attacks and Defenses for Deep Learning
+
+:white_check_mark: 1801.Threat of Adversarial Attacks on Deep Learning in Computer Vision-A Survey
+
+:white_check_mark: 1802.Adversarial Risk and the Dangers of Evaluating Against Weak Attacks
+
