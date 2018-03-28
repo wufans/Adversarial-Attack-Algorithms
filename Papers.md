@@ -1,7 +1,7 @@
 # Summary of papers in Adversarial Settings
 
 ---
-## Background of Deep Learning Security and application of adversarial attack
+## Background of Deep Learning Security and applications of adversarial attack
 :white_check_mark: 000.Machine Learning in Adversarial Settings-PPT
 
 :white_check_mark: 0603.Can Machine Learning Be Secure
@@ -125,7 +125,7 @@
 ## Defence Strategies
 
 ---
-## Related survey research
+## Related survey researches
 :white_check_mark: 1606.Concrete Problems in AI Safety
 
 :white_check_mark: 1610.SoK Towards the Science of Security and Privacy in Machine Learning
