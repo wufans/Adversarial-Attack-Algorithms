@@ -134,6 +134,38 @@
 
 ---
 ## Defence Strategies
+:white_check_mark: 1603.Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks
+
+:white_check_mark: 1604.Improving the robustness of deep neural networks via stability training
+
+:white_check_mark: 1605.Adversarial Training Methods for Semi-Supervised Text Classification
+
+:white_check_mark: 1607.Defensive Distillation is Not Robust to Adversarial Examples
+
+:white_check_mark: 1608.A study of the effect of JPG compression on adversarial images
+
+:white_check_mark: 1610.Adversary Resistant Deep Neural Networks with an Application to Malware Detection
+
+:white_check_mark: 1703.Biologically inspired protection of deep networks from adversarial attacks
+
+:white_check_mark: 1704.Feature Squeezing Detecting Adversarial Examples in Deep Neural Networks
+
+:white_check_mark: 1705.Detecting Adversarial Examples in Deep Neural Networks
+
+:white_check_mark: 1705.Extending Defensive Distillation
+
+:white_check_mark: 1705.Feature Squeezing Mitigates and Detects Carlini Wagner Adversarial Examples
+
+:white_check_mark: 1705.Generative Adversarial Trainer Defense to Adversarial Perturbations with GAN
+
+:white_check_mark: 1705.MagNet-a Two-Pronged Defense against Adversarial Examples
+
+:white_check_mark: 1706.Adversarial Example Defenses Ensembles of Weak Defenses are not Strong
+
+:white_check_mark: 1707.AE-GAN adversarial eliminating with GAN
+
+:white_check_mark: 1707.APE-GAN-- Adversarial Perturbation Elimination with GAN
+
 
 ---
 ## Related survey researches
