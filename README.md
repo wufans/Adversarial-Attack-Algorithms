@@ -16,6 +16,17 @@
 
 ---
 ## Existence of adversarial examples
+:white_check_mark: 1500.Fundamental limits on adversarial robustness
+
+:white_check_mark: 1503.Explaining and Harnessing Adversarial Examples
+
+:white_check_mark: 1608.A Boundary Tilting Persepective on the Phenomenon of Adversarial Examples
+
+:white_check_mark: 1608.Robustness of classifiers:from adversarial to random noise
+
+:white_check_mark: 1705.Analysis of universal adversarial perturbations
+
+:white_check_mark: 1801.High Dimensional Spaces, Deep Learning and Adversarial Examples
 
 ---
 ## Attack Algorithms
