@@ -148,6 +148,8 @@
 
 :white_check_mark: 1703.Biologically inspired protection of deep networks from adversarial attacks
 
+:white_check_mark: 1704.Enhancing Robustness of Machine Learning Systems via Data Transformations
+
 :white_check_mark: 1704.Feature Squeezing Detecting Adversarial Examples in Deep Neural Networks
 
 :white_check_mark: 1705.Detecting Adversarial Examples in Deep Neural Networks
