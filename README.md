@@ -132,6 +132,8 @@
 
 :white_check_mark: 1801.LaVAN-Localized and Visible Adversarial Noise
 
+:white_check_mark: 1803.Improving Transferability of Adversarial Examples with Input Diversity
+
 ---
 ## Defence Strategies
 :white_check_mark: 1603.Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks
