@@ -197,6 +197,6 @@
 
 :white_check_mark: 1703.Detecting Adversarial Samples from Artifacts
 
-:white_check_mark: 
+:white_check_mark: 1704.SafetyNet-Detecting and Rejecting Adversarial Examples Robustly
 
-:white_check_mark: 
+:white_check_mark: 1705.Adversarial Examples Are Not Easily Detected-Bypassing Ten Detection Methods
