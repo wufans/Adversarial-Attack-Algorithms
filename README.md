@@ -170,6 +170,7 @@
 
 :white_check_mark: 1707.APE-GAN-- Adversarial Perturbation Elimination with GAN
 
+:white_check_mark: 1711.Mitigating adversarial effects through randomization
 
 ---
 ## Related survey researches
