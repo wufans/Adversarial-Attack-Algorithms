@@ -170,6 +170,8 @@
 
 :white_check_mark: 1707.APE-GAN-- Adversarial Perturbation Elimination with GAN
 
+:white_check_mark: 1709.Mitigating Evasion Attacks to Deep Neural Networks via Region-based Classification
+
 :white_check_mark: 1711.Mitigating adversarial effects through randomization
 
 ---
