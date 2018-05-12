@@ -164,7 +164,7 @@
 
 :white_check_mark: 1705.MagNet-a Two-Pronged Defense against Adversarial Examples
 
-:white_check_mark: 1706.Adversarial Example Defenses Ensembles of Weak Defenses are not Strong
+:white_check_mark: 1706.Adversarial Example Defenses ：Ensembles of Weak Defenses are not Strong
 
 :white_check_mark: 1707.AE-GAN adversarial eliminating with GAN
 
