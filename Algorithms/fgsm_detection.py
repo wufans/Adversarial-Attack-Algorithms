@@ -488,12 +488,7 @@ train(sess, env, X_train, y_train, X_valid, y_valid, load=True, epochs=5,name='m
 #train(sess, env, X_train, y_train, X_valid, y_valid, load=False, epochs=5, name='mnist')
 
 print('\nGenerating adversarial data')
-print("经过Spatial smoothing处理后，真实样本分类发生改变的概率",0.0148)
-print("经过Spatial smoothing处理后，对抗样本分类发生改变的概率",0.9356)
-TP, FN, FP, TN = 9771, 229, 341, 9659
-P , R = TP / (TP+FP) , TP / (TP+FN)
-print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
-#X_adv = make_fgsm(sess, env, X_test, eps=0.02, epochs=12)
+X_adv = make_fgsm(sess, env, X_test, eps=0.02, epochs=12)
 
 # print("\nReducing color bits")
 # x_redu_bit = reduce_color_bits(X_test,bit_depth = 1)
