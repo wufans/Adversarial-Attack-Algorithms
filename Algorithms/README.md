@@ -1,1 +1,4 @@
-## This file provides some examples code of testing generating adversarial examples algorithms and defend methds, and some codes are not complished.
+## This file provides some examples code to generate adversarial examples and some defend methds, but some codes are not complished.
+### fgsm attack
+### cw attack
+### detection test of adversarial examples
