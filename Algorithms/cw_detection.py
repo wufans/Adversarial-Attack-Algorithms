@@ -517,6 +517,7 @@ def result_eval(sess,env,x_test,x_adv,x_test_pre,x_adv_pre):
 
     return TP, FN, FP, TN, P, R
 ################################################################################
+#
 #pca_components = 1
 random_scale = 0.5
 bit_depth = 1
@@ -535,34 +536,35 @@ x_adc_rectify = rectify(X_adv,decimal = decimal)
 TP, FN, FP, TN, P, R = result_eval(env.sess,env,X_test,X_adv,x_rectify,x_adc_rectify)
 print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
 
-# print("\nReducing color bits = 1")
-# x_redu_bit = reduce_color_bits(X_test,bit_depth = 1)
-# x_adv_redu_bit = reduce_color_bits(X_adv,bit_depth = 1)
-# TP, FN, FP, TN, P, R = result_eval(env.sess,env,X_test,X_adv,x_redu_bit,x_adv_redu_bit)
-# print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
-#
-# print("\nReducing color bits = 2")
-# x_redu_bit = reduce_color_bits(X_test,bit_depth = 2)
-# x_adv_redu_bit = reduce_color_bits(X_adv,bit_depth = 2)
-# TP, FN, FP, TN, P, R = result_eval(env.sess,env,X_test,X_adv,x_redu_bit,x_adv_redu_bit)
-# print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
-#
-# for pca_components in [1,5,10,20]:
-#     print('\nGenerating PCA data, n_components={0}'.format(pca_components))
-#     X_pca = data_pca(X_test,n_components = pca_components)
-#     X_adv_pca = data_pca(X_adv,n_components = pca_components)
-#     TP, FN, FP, TN, P, R = result_eval(env.sess,env,X_test,X_adv,X_pca,X_adv_pca)
-#     print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
+print("\nReducing color bits = 1")
+x_redu_bit = reduce_color_bits(X_test,bit_depth = 1)
+x_adv_redu_bit = reduce_color_bits(X_adv,bit_depth = 1)
+TP, FN, FP, TN, P, R = result_eval(env.sess,env,X_test,X_adv,x_redu_bit,x_adv_redu_bit)
+print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
 
-# print('\nGenerating decenration data')
-# x_decentra = decentra_data(X_test)
-# X_adv_decentra = decentra_data(X_adv)
-# TP, FN, FP, TN, P, R = result_eval(env.sess,env,X_test,X_adv,x_decentra,X_adv_decentra)
-# print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
-#
-# print('\nGenerating randomization data')
-# x_rand = random(X_test)
-# X_adv_rand = random(X_adv)
-# TP, FN, FP, TN, P, R = result_eval(env.sess,env,X_test,X_adv,x_rand,X_adv_rand)
-# print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
+print("\nReducing color bits = 2")
+x_redu_bit = reduce_color_bits(X_test,bit_depth = 2)
+x_adv_redu_bit = reduce_color_bits(X_adv,bit_depth = 2)
+TP, FN, FP, TN, P, R = result_eval(env.sess,env,X_test,X_adv,x_redu_bit,x_adv_redu_bit)
+print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
+
+# 测试pca的维度选择
+for pca_components in [1,5,10,20]:
+    print('\nGenerating PCA data, n_components={0}'.format(pca_components))
+    X_pca = data_pca(X_test,n_components = pca_components)
+    X_adv_pca = data_pca(X_adv,n_components = pca_components)
+    TP, FN, FP, TN, P, R = result_eval(env.sess,env,X_test,X_adv,X_pca,X_adv_pca)
+    print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
+
+print('\nGenerating decenration data')
+x_decentra = decentra_data(X_test)
+X_adv_decentra = decentra_data(X_adv)
+TP, FN, FP, TN, P, R = result_eval(env.sess,env,X_test,X_adv,x_decentra,X_adv_decentra)
+print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
+
+print('\nGenerating randomization data')
+x_rand = random(X_test)
+X_adv_rand = random(X_adv)
+TP, FN, FP, TN, P, R = result_eval(env.sess,env,X_test,X_adv,x_rand,X_adv_rand)
+print("TP:",TP,"\nFN:",FN,"\nFP:",FP,"\nTN:",TN,"\nP:",P,"\nR:",R)
 
