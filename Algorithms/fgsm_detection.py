@@ -444,8 +444,9 @@ def spatial_smooth(x_test):
 def result_eval(sess,env,x_test,x_adv,x_test_pre,x_adv_pre):
     """
     从TP, FN, FP, TN, P, R 6个标准评价样本
+    Accuracy = (TP+TN)/(TP+FN+FP+TN)
     """
-    TP, FN, FP, TN = 0, 0, 0, 0
+    TP, FN, FP, TN, Accuracy = 0, 0, 0, 0
     y_test = predict(sess, env, x_test)
     y_adv = predict(sess, env, x_adv)
     y_test_pre = predict(sess, env, x_test_pre)
@@ -467,8 +468,8 @@ def result_eval(sess,env,x_test,x_adv,x_test_pre,x_adv_pre):
 
     FN, FP = n_samples - TP, n_samples - TN
     P , R = TP / (TP+FP) , TP / (TP+FN)
-
-    return TP, FN, FP, TN, P, R
+    Accuracy = (TP+TN)/(TP+FN+FP+TN)
+    return TP, FN, FP, TN, P, R, Accuracy
 ################################################################################
 ################################################################################
 # X_test = np.reshape(X_test,[-1, img_size,img_size])
