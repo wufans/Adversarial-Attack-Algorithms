@@ -1,5 +1,5 @@
 # Summary of papers in Adversarial Settings
-
+The most comprehensive repository!
 ---
 ## Background of Deep Learning Security and applications of adversarial attack
 :white_check_mark: 000.Machine Learning in Adversarial Settings-PPT
