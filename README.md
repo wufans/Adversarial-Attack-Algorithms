@@ -211,3 +211,15 @@ Maybe this is the most comprehensive repository in this direction!
 :white_check_mark: 1712.Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser
 
 :white_check_mark: 1803.Detecting Adversarial Examples via Neural Fingerprinting
+
+---
+## Adversarial attack in physical word
+:white_check_mark: 1600.Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition
+
+:white_check_mark: 1702.Adversarial examples in the physical world
+
+:white_check_mark: 1707.Robust Physical-World Attacks on Machine Learning Models
+
+:white_check_mark: 1707.NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles
+
+:white_check_mark: 1707.Synthesizing Robust Adversarial Examples
