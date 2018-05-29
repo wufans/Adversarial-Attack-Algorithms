@@ -223,3 +223,5 @@ Maybe this is the most comprehensive repository in this direction!
 :white_check_mark: 1707.NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles
 
 :white_check_mark: 1707.Synthesizing Robust Adversarial Examples
+
+:white_check_mark: 1710.Standard detectors aren’t (currently) fooled by physical adversarial stop signs
