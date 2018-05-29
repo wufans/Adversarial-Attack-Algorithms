@@ -213,7 +213,7 @@ Maybe this is the most comprehensive repository in this direction!
 :white_check_mark: 1803.Detecting Adversarial Examples via Neural Fingerprinting
 
 ---
-## Adversarial attack in physical word
+## Adversarial attack in physical world
 :white_check_mark: 1600.Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition
 
 :white_check_mark: 1702.Adversarial examples in the physical world
