@@ -1,6 +1,6 @@
 # Summary of papers in Adversarial Settings
 
-Maybe this is the most comprehensive repository in this direction!
+A comprehensive summary in this direction!
 
 ---
 ## Background of Deep Learning Security and applications of adversarial attack
