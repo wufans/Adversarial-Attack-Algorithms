@@ -229,3 +229,35 @@ A comprehensive summary in this direction!
 :white_check_mark: 1707.Robust Physical-World Attacks on Deep Learning Visual Classification
 
 :white_check_mark: 1710.Standard detectors aren’t (currently) fooled by physical adversarial stop signs
+
+
+## :book:  (Updating)Adversarial Attack Reasearch in Security Areas
+
+:white_check_mark: 1606.Adversarial Perturbations Against Deep Neural Networks for Malware Classificationc
+
+:white_check_mark: 1705.Black-Box Attacks against RNN based Malware Detection Algorithms
+
+:white_check_mark: 1706.Automated Poisoning Attacks and Defenses in Malware Detection Systems_ An Adversarial Machine Learning Approach
+
+:white_check_mark: 1707.Evading Machine Learning Malware Detection
+
+:white_check_mark: 1710.Malware Detection by Eating a Whole EXE
+
+:white_check_mark: 1712.Attack and Defense of Dynamic Analysis-Based, Adversarial Neural Malware Classification Models
+
+:white_check_mark: 1801.Learning to Evade Static PE Machine Learning Malware Models via Reinforcement Learning
+
+:white_check_mark: 1803.Adversarial Malware Binaries_ Evading Deep Learning for Malware Detection in Executables
+
+:white_check_mark: 1803.Malytics_ A Malware Detection Scheme
+
+:white_check_mark: 1804.Generic Black-Box End-to-End Attack against RNNs and Other API Calls Based Malware Classifiers
+
+:white_check_mark: 1805.Adversarial Attacks on Neural Networks for Graph Data
+
+:white_check_mark: 1810.Exploring Adversarial Examples in Malware Detection
+
+:white_check_mark: 1811.rsarial Examples for Malware Detection
+
+:white_check_mark: 1812.earning under Attack_ Vulnerability Exploitation and Security Measures
+
