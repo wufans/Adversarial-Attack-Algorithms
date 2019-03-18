@@ -231,13 +231,14 @@ A comprehensive summary in this direction!
 :white_check_mark: 1710.Standard detectors aren’t (currently) fooled by physical adversarial stop signs
 
 
+---
 ## :book:  (Updating)Adversarial Attack Reasearch in Security Areas
 
 :white_check_mark: 1606.Adversarial Perturbations Against Deep Neural Networks for Malware Classificationc
 
 :white_check_mark: 1705.Black-Box Attacks against RNN based Malware Detection Algorithms
 
-:white_check_mark: 1706.Automated Poisoning Attacks and Defenses in Malware Detection Systems_ An Adversarial Machine Learning Approach
+:white_check_mark: 1706.Automated Poisoning Attacks and Defenses in Malware Detection Systems:An Adversarial Machine Learning Approach
 
 :white_check_mark: 1707.Evading Machine Learning Malware Detection
 
