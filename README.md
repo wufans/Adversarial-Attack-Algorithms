@@ -122,6 +122,8 @@ A comprehensive summary in this direction!
 
 :white_check_mark: 1709.Ground-Truth Adversarial Examples
 
+:white_check_mark: 1710.One pixel attack for fooling deep neural networks
+
 :white_check_mark: 1711.Security Risks in Deep Learning Implementations
 
 :white_check_mark: 1712.Adversarial Patch
