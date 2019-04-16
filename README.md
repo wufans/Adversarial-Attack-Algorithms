@@ -180,6 +180,8 @@ A comprehensive summary in this direction!
 
 :white_check_mark: 1711.Mitigating adversarial effects through randomization
 
+:white_check_mark: 1805.Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models
+
 ---
 ## Related survey researches
 :white_check_mark: 1606.Concrete Problems in AI Safety
@@ -231,6 +233,8 @@ A comprehensive summary in this direction!
 :white_check_mark: 1707.Robust Physical-World Attacks on Deep Learning Visual Classification
 
 :white_check_mark: 1710.Standard detectors aren’t (currently) fooled by physical adversarial stop signs
+
+:white_check_mark: 1801.Audio Adversarial Examples: Targeted Attacks on Speech-to-Text
 
 
 ---
