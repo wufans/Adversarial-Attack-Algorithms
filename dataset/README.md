@@ -1,3 +1,18 @@
+# 实验数据集整理
+
+## 常用数据集
+CIFAR
+【A. Torralba and R. Fergus and W. T. Freeman, 80 Million Tiny Images: a Large Database for NonParametric Object and Scene Recognition, IEEE PAMI, 2008】
+ImageNet
+【Deng, Jia, Dong, Wei, Socher, Richard, jia Li, Li, Li, Kai, and Fei-fei, Li. Imagenet: A large-scale hierarchical image database. In In CVPR, 2009.】
+MNIST
+【LeCun, Y., Jackel, L., Bottou, L., Brunot, A., Cortes, C., Denker, J., Drucker,H., Guyon, I., M¨uller, U., S¨ackinger, E., Simard, P., Vapnik, V.: Comparison of learning algorithms for handwritten digit recognition. In: Int’l Conf. on Art. Neu.Net. pp. 53–60 (1995)】
+Traffic sign
+【STALLKAMP, J., SCHLIPSING, M., SALMEN, J., AND IGEL, C.Man vs. computer: Benchmarking machine learning algorithms for traffic sign recognition. Neural Networks, 0 (2012),.】
+DREBIN Android恶意软件数据集
+（D. Arp, M. Spreitzenbarth, M. Hubner, H. Gascon, and K. Rieck. DREBIN: Effective and Explainable Detection of Android Malware in Your Pocket. In Proceedings of the 2014 Network and Distributed System Security Symposium(NDSS), 2014.）
+
+
 ## 安全领域整理的相关数据集
 
 ## 恶意软件/恶意文件/恶意邮件/ Cerber 勒索
