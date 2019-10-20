@@ -11,6 +11,15 @@
  - A-7: MalShare: http://malshare.com/ (MalShare 旨在建立一个公共的恶意软件数据库，同时也提供一些工具)
  - A-8:MalwareBlacklist: http://www.malwareblacklist.com/showMDL.php (malwareblacklist收录了恶意软件的URL和样本)
  - A-9：VirusShare： VirusShare.com（这个网站提供恶意样本，恶意软件事件库，分析，和病毒样本的代码）
+### Github上面的公开数据集：
+ - A-10: https://github.com/ashishb/android-malware：安卓的恶意代码样本数据。
+ - A-11 :https://github.com/RamadhanAmizudin/malware：各种恶意软件的源代码
+ - A-12: https://github.com/Te-k/malware-classification：用CSV存储的恶意代码
+### Kaggle关于Malware detection的挑战赛（都有对应数据集可供下载）：
+ - A-13: https://www.kaggle.com/nsaravana/malware-detection 
+ - A-14: https://www.kaggle.com/c/malware-classification
+ - A-15: https://www.kaggle.com/c/ml-fall2016-android-malware
+ - A-16: https://www.kaggle.com/c/adcg-2016-malware-anomaly-detection-w-peinfo
 
 ## 恶意域名url与钓鱼网站
  - B-1：Alexa收录知名网站域名：http://alexa.chinaz.com/(爬虫)
